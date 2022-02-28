@@ -119,7 +119,9 @@ header.scrolled {
 
 .hero img {
   margin-top: 64px;
-}
+  width: calc(70% - 32px);
+  height: auto;
+  }
 
 /* features */
 
