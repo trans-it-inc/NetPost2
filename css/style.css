@@ -121,6 +121,8 @@ header.scrolled {
   margin-top: 64px;
   width: calc(70% - 32px);
   height: auto;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
   }
 
 /* features */
